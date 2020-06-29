@@ -2,7 +2,7 @@
 
 Welcome to the Git repository for **the Create Your Frisk Disbelief mod wrapper**
 , a fork of [**CYF**](https://github.com/RhenaudTheLukark/CreateYourFrisk) which is a fork of
-[**Unitale**](https://github.com/lvk/Unitale/) by lvk!
+[**Unitale**](https://github.com/lvk/Unitale/) by lvk! this fork was made by [TheEternalShine](https://github.com/TheEternalShine), and was transferred to Cezar as disbelief was Cezar's game, and TheEternalShine didn't want to bloat his own account.
 
 Instead, modified to load the mod based off the animation "Disbelief Papyrus" on startup, as well as a few minor differences.
 
